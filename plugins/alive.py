@@ -33,19 +33,19 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/207e98f8900efae81d4e6.jpg",
+        photo=f"https://telegra.ph/file/931f73a6880be85ad1ab1.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ : [NehA ʜᴀʟᴅᴇʀ](https://t.me/Sushil8xop)
-┣★ ᴜᴘᴅᴀᴛᴇs : [NehA sᴇʀᴠᴇʀ](https://t.me/Clan8xofficial)
-┣★ sᴜᴘᴘᴏʀᴛ : [NehA ᴅɪsᴄᴜs](https://t.me/dangerousfighters)
-┣★ sᴏᴜʀᴄᴇ › : [ɢᴇᴛ ʀᴇᴘᴏ ʜᴇʀᴇ](t.me//AllF_Ban)
+┣★ ᴄʀᴇᴀᴛᴏʀ : [ɴᴀᴠʏᴀ ʜᴀʟᴅᴇʀ](https://t.me/wtf_navya)
+┣★ ᴜᴘᴅᴀᴛᴇs : [ɴᴀᴠʏᴀ sᴇʀᴠᴇʀ](https://t.me/Clan8xofficial)
+┣★ sᴜᴘᴘᴏʀᴛ : [ɴᴀᴠʏᴀ ᴅɪsᴄᴜs](https://t.me/dangerousfighters)
+┣★ sᴏᴜʀᴄᴇ › : [ɢᴇᴛ ʀᴇᴘᴏ ʜᴇʀᴇ](t.me//wtf_navya)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/Sushil8xop) ...
+ᴅᴍ ᴛᴏ ᴍʏ [ɴᴀᴠʏᴀ ᴏᴡɴᴇʀ](https://t.me/wtf_navya) ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -59,10 +59,10 @@ async def start_(client: Client, message: Message):
     )
     
     
-@Client.on_message(commandpro(["/start", "/alive", "aditya"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["/start", "/alive", "navya"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/207e98f8900efae81d4e6.jpg",
+        photo=f"https://telegra.ph/file/931f73a6880be85ad1ab1.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -78,13 +78,13 @@ async def start(client: Client, message: Message):
 @Client.on_message(commandpro(["repo", "#repo", "@repo", "/repo", "source"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/207e98f8900efae81d4e6.jpg",
+        photo=f"https://telegra.ph/file/f01b866242fa4e3bf74ad.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 VICKY 💞", url=f"https://github.com/SUSHILxPLAYER")
+                        "💥 𝐑𝐄𝐏𝐎 💞", url=f"https://github.com/SUSHILxPLAYER")
                 ]
             ]
         ),
