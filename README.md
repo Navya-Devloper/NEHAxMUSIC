@@ -1,7 +1,7 @@
 ### Best Smart Voice Chat Music Robot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/Clan8xofficial"><img src="https://te.legra.ph/file/207e98f8900efae81d4e6.jpg"></a></p>
+<p align="center"><a href="https://t.me/Clan8xofficial"><img src="https://telegra.ph/file/931f73a6880be85ad1ab1.jpg"></a></p>
 
 
 
@@ -26,4 +26,4 @@
 #### Copy Pasters You Can Copy This But Must Give Credits ...
 
 ### Owner Of This Repository
-[![Shubhi Halder](https://te.legra.ph/file/533a910b5ec006dbd492b.jpg)](https://t.me/Wtf_Navya) 
+[![Navya Halder](https://telegra.ph/file/1277ee2909b4d717d0a34.jpg)](https://t.me/Wtf_Navya) 
